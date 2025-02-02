@@ -18,3 +18,4 @@ gm
 30
 ok
 ge
+go
