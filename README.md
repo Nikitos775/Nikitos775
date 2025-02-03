@@ -19,3 +19,4 @@ gm
 ok
 ge
 go
+yes
