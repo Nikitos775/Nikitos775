@@ -35,7 +35,7 @@ yes
 2
 8
 1
-go to moon
+
 
 
 
